@@ -154,7 +154,7 @@ packages:
 
   '@mercuryworkshop/scramjet@https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-2.0.2-alpha.tgz':
     resolution: {tarball: https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-2.0.2-alpha.tgz}
-    version: 2.0.0-alpha
+    version: 2.0.2-alpha
 
   '@mercuryworkshop/wisp-js@0.3.3':
     resolution: {integrity: sha512-egc9jbBmNqPXGOkvOOG142SLaBL3jBkz0IGnhYYWOnmg5FeC6KfGSRU5xlk+dKYecE3tuH03bFNi3/vBAOoJKA==}
