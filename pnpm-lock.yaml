@@ -1028,7 +1028,7 @@ snapshots:
     dependencies:
       '@mercuryworkshop/epoxy-tls': 2.1.18-1
 
-  '@mercuryworkshop/scramjet@https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-2.0.0-alpha.tgz(typescript@5.9.2)':
+  '@mercuryworkshop/@https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-2.0.2-alpha.tgz(typescript@5.9.2)':
     dependencies:
       '@catppuccin/vscode': 3.18.0
       '@giancosta86/typedoc-readonly': 1.0.1(typedoc@0.28.13(typescript@5.9.2))
